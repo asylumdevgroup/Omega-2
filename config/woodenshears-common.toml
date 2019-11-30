@@ -1,0 +1,18 @@
+
+#Durability settings
+[durability]
+	#Sets how many uses the dark oak shears have before breaking
+	durability_dark_oak = 50
+	#Sets how many uses the charred shears have before breaking
+	durability_charred = 50
+	#Sets how many uses the spruce shears have before breaking
+	durability_spruce = 50
+	#Sets how many uses the jungle shears hav before breaking
+	durability_jungle = 50
+	#Sets how many uses the acacia shears have before breaking
+	durability_acacia = 50
+	#Sets how many uses the birch shears have before breaking
+	durability_birch = 50
+	#Sets how many uses the oak shears have before breaking
+	durability_oak = 50
+

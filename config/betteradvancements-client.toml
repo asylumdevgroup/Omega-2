@@ -1,0 +1,22 @@
+doAdvancementsBackgroundFade = true
+addInventoryButton = false
+#Lists the criteria for partially completed advancements, e.g. the biomes required for 'Adventuring Time'
+#    Off: Vanilla default
+#    Default: List which criteria you have already obtained
+#    Spoiler: Only reveal unobtained criteria
+#    All: Show both obtained and unobtained criteria
+criteriaDetail = "Default"
+defaultCompletedLineColor = "#FFFFFF"
+criteriaDetailRequiresShift = false
+defaultUncompletedIconColor = "#FFFFFF"
+defaultCompletedIconColor = "#DBA213"
+defaultDrawDirectLines = false
+defaultUncompletedTitleColor = "#0489C1"
+orderTabsAlphabetically = false
+#Values below 50% might give odd results, use on own risk ;)
+uiScaling = 100
+showDebugCoordinates = false
+defaultCompletedTitleColor = "#DBA213"
+defaultHideLines = false
+defaultUncompletedLineColor = "#FFFFFF"
+

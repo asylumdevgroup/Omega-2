@@ -1,0 +1,17 @@
+
+#GamemodeOverhaul's command config settings
+[commands]
+	#Set this to false if you don't the mod to add '/gmc', '/gms', '/gmsp' and '/gma'
+	enableReallyShortGMCommands = true
+	#Set this to false if you don't want the mod to add the '/dgm' command
+	enableDGMCommand = true
+	#Set this to false if you don't want the mod to add the '/gm' command
+	enableGMCommand = true
+
+#GamemodeOverhaul's misc. config settings
+[misc]
+	#Set this to true if you want GamemodeOverhaul to send a welcome message when you join a world
+	enableWelcomeMessage = false
+	#Set this to true if you want GamemodeOverhaul to log debug messages
+	enableDebugMessages = false
+
