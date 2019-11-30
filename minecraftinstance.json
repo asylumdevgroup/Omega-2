@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-11-16T17:59:08.1419871Z",
+  "lastPlayed": "2019-11-30T16:16:26.7849606Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -54,9 +54,9 @@
         1311735898
       ],
       "status": 1,
-      "timestamp": "2019-11-07T01:27:36.1339356Z",
+      "timestamp": "2019-11-30T02:24:25.8254731Z",
       "lastWriteTimeUtc": "2019-11-07T01:27:07.6401363Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6719005Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2523314Z",
       "fileCount": 1,
       "fileSize": 118372
     },
@@ -69,9 +69,9 @@
         1561930747
       ],
       "status": 1,
-      "timestamp": "2019-11-17T00:10:00.950501Z",
+      "timestamp": "2019-11-30T02:24:25.8444218Z",
       "lastWriteTimeUtc": "2019-11-16T17:58:56.910007Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6719005Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2523314Z",
       "fileCount": 1,
       "fileSize": 457167
     },
@@ -84,16 +84,16 @@
         1907994817
       ],
       "status": 1,
-      "timestamp": "2019-11-07T01:27:36.1289495Z",
+      "timestamp": "2019-11-30T02:24:25.819489Z",
       "lastWriteTimeUtc": "2019-11-07T01:27:06.254838Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6719005Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2523314Z",
       "fileCount": 1,
       "fileSize": 12315
     },
     {
       "folderName": "New World",
       "fingerprint": 1675504321,
-      "fileDateHash": 3172128460,
+      "fileDateHash": 1074292693,
       "sectionID": 10,
       "individualFingerprints": [
         33155911,
@@ -138,9 +138,9 @@
         4261832472
       ],
       "status": 1,
-      "timestamp": "2019-11-17T00:10:00.9734398Z",
-      "lastWriteTimeUtc": "2019-11-16T18:01:38.8291418Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6719005Z",
+      "timestamp": "2019-11-30T02:24:25.8464163Z",
+      "lastWriteTimeUtc": "2019-11-30T02:24:20.9644674Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2523314Z",
       "fileCount": 13,
       "fileSize": 0
     },
@@ -153,9 +153,9 @@
         4163348866
       ],
       "status": 1,
-      "timestamp": "2019-11-07T01:27:36.135931Z",
+      "timestamp": "2019-11-30T02:24:25.8314569Z",
       "lastWriteTimeUtc": "2019-11-07T01:27:06.9559649Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6719005Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2523314Z",
       "fileCount": 1,
       "fileSize": 181710
     },
@@ -170,7 +170,7 @@
       "status": 1,
       "timestamp": "2019-04-14T22:04:10.359914Z",
       "lastWriteTimeUtc": "2019-04-14T21:56:05.6887434Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6719005Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2523314Z",
       "fileCount": 1,
       "fileSize": 1642223
     },
@@ -183,9 +183,9 @@
         638429519
       ],
       "status": 1,
-      "timestamp": "2019-11-07T01:27:36.1439091Z",
+      "timestamp": "2019-11-30T02:24:25.8384388Z",
       "lastWriteTimeUtc": "2019-11-07T01:27:06.7006466Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6719005Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2523314Z",
       "fileCount": 1,
       "fileSize": 470763
     },
@@ -198,9 +198,9 @@
         2433802680
       ],
       "status": 1,
-      "timestamp": "2019-11-17T00:10:00.9395304Z",
+      "timestamp": "2019-11-30T02:24:25.8434246Z",
       "lastWriteTimeUtc": "2019-11-16T17:58:58.5855285Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6719005Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2523314Z",
       "fileCount": 1,
       "fileSize": 252029
     },
@@ -213,9 +213,9 @@
         2050790696
       ],
       "status": 1,
-      "timestamp": "2019-11-07T01:27:36.1349334Z",
+      "timestamp": "2019-11-30T02:24:25.82647Z",
       "lastWriteTimeUtc": "2019-11-07T01:27:07.1973178Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6719005Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2523314Z",
       "fileCount": 1,
       "fileSize": 37780
     },
@@ -228,9 +228,9 @@
         2860322387
       ],
       "status": 1,
-      "timestamp": "2019-11-07T01:27:36.1409168Z",
+      "timestamp": "2019-11-30T02:24:25.8354468Z",
       "lastWriteTimeUtc": "2019-11-07T01:27:04.7548496Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6719005Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2523314Z",
       "fileCount": 1,
       "fileSize": 19232
     },
@@ -245,7 +245,7 @@
       "status": 1,
       "timestamp": "2019-04-21T00:09:53.5556372Z",
       "lastWriteTimeUtc": "2019-04-21T00:05:17.2473575Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6719005Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2523314Z",
       "fileCount": 1,
       "fileSize": 424327
     },
@@ -258,9 +258,9 @@
         3478571036
       ],
       "status": 1,
-      "timestamp": "2019-11-07T01:27:36.1459039Z",
+      "timestamp": "2019-11-30T02:24:25.8414299Z",
       "lastWriteTimeUtc": "2019-11-07T01:27:07.534416Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6719005Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2523314Z",
       "fileCount": 1,
       "fileSize": 773899
     },
@@ -273,9 +273,9 @@
         560909100
       ],
       "status": 1,
-      "timestamp": "2019-11-07T01:27:36.0960376Z",
+      "timestamp": "2019-11-30T02:24:25.819489Z",
       "lastWriteTimeUtc": "2019-11-07T01:27:04.1694153Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6719005Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2523314Z",
       "fileCount": 1,
       "fileSize": 59408
     },
@@ -288,9 +288,9 @@
         1967969277
       ],
       "status": 1,
-      "timestamp": "2019-11-07T01:27:36.1459039Z",
+      "timestamp": "2019-11-30T02:24:25.8404326Z",
       "lastWriteTimeUtc": "2019-11-07T01:27:05.2874253Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6719005Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2523314Z",
       "fileCount": 1,
       "fileSize": 27015
     },
@@ -303,9 +303,9 @@
         719984945
       ],
       "status": 1,
-      "timestamp": "2019-11-07T01:27:36.1349334Z",
+      "timestamp": "2019-11-30T02:24:25.82647Z",
       "lastWriteTimeUtc": "2019-11-07T01:27:04.6182148Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6719005Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2523314Z",
       "fileCount": 1,
       "fileSize": 267402
     },
@@ -320,7 +320,7 @@
       "status": 1,
       "timestamp": "2019-04-14T22:04:10.3708847Z",
       "lastWriteTimeUtc": "2019-04-11T19:59:23.221112Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6719005Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2523314Z",
       "fileCount": 1,
       "fileSize": 688962
     },
@@ -333,9 +333,9 @@
         2861180279
       ],
       "status": 1,
-      "timestamp": "2019-11-07T01:27:36.1409168Z",
+      "timestamp": "2019-11-30T02:24:25.8354468Z",
       "lastWriteTimeUtc": "2019-11-07T01:27:04.4716072Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6719005Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2533286Z",
       "fileCount": 1,
       "fileSize": 1017781
     },
@@ -348,9 +348,9 @@
         753357945
       ],
       "status": 1,
-      "timestamp": "2019-11-07T01:27:36.1459039Z",
+      "timestamp": "2019-11-30T02:24:25.8404326Z",
       "lastWriteTimeUtc": "2019-11-07T01:27:05.6893503Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6719005Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2523314Z",
       "fileCount": 1,
       "fileSize": 80859
     },
@@ -363,9 +363,9 @@
         3650150719
       ],
       "status": 1,
-      "timestamp": "2019-11-07T01:27:36.1399198Z",
+      "timestamp": "2019-11-30T02:24:25.8344494Z",
       "lastWriteTimeUtc": "2019-11-07T01:27:06.1082301Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6719005Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2533286Z",
       "fileCount": 1,
       "fileSize": 4482
     },
@@ -378,9 +378,9 @@
         1811899946
       ],
       "status": 1,
-      "timestamp": "2019-11-07T01:27:36.1389226Z",
+      "timestamp": "2019-11-30T02:24:25.8344494Z",
       "lastWriteTimeUtc": "2019-11-07T01:27:04.8705405Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6728979Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2533286Z",
       "fileCount": 1,
       "fileSize": 42832
     },
@@ -393,9 +393,9 @@
         2837066474
       ],
       "status": 1,
-      "timestamp": "2019-11-07T01:27:36.135931Z",
+      "timestamp": "2019-11-30T02:24:25.827468Z",
       "lastWriteTimeUtc": "2019-11-07T01:27:05.4669469Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6728979Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2533286Z",
       "fileCount": 1,
       "fileSize": 34119
     },
@@ -408,9 +408,9 @@
         3588856219
       ],
       "status": 1,
-      "timestamp": "2019-11-17T00:10:00.8517656Z",
+      "timestamp": "2019-11-30T02:24:25.819489Z",
       "lastWriteTimeUtc": "2019-11-07T01:27:04.0028606Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6728979Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2533286Z",
       "fileCount": 1,
       "fileSize": 129952
     },
@@ -423,9 +423,9 @@
         886089181
       ],
       "status": 1,
-      "timestamp": "2019-11-07T01:27:36.0940428Z",
+      "timestamp": "2019-11-30T02:24:25.8155004Z",
       "lastWriteTimeUtc": "2019-11-07T01:27:06.4513127Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6728979Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2533286Z",
       "fileCount": 1,
       "fileSize": 8172
     },
@@ -438,9 +438,9 @@
         775831823
       ],
       "status": 1,
-      "timestamp": "2019-11-07T01:27:36.1409168Z",
+      "timestamp": "2019-11-30T02:24:25.8344494Z",
       "lastWriteTimeUtc": "2019-11-07T01:27:05.5796437Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6728979Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2533286Z",
       "fileCount": 1,
       "fileSize": 8823
     },
@@ -453,11 +453,26 @@
         3416119048
       ],
       "status": 1,
-      "timestamp": "2019-11-17T00:10:00.9215784Z",
+      "timestamp": "2019-11-30T02:24:25.8324556Z",
       "lastWriteTimeUtc": "2019-11-16T17:58:55.2624105Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6728979Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2533286Z",
       "fileCount": 1,
       "fileSize": 690767
+    },
+    {
+      "folderName": "cc-tweaked-1.13.2-1.83.1.jar",
+      "fingerprint": 4153439115,
+      "fileDateHash": 2461833501,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4153439115
+      ],
+      "status": 1,
+      "timestamp": "2019-11-30T02:24:25.8204866Z",
+      "lastWriteTimeUtc": "2019-11-07T01:27:05.1238624Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2533286Z",
+      "fileCount": 1,
+      "fileSize": 1683035
     },
     {
       "folderName": "XaerosWorldMap_1.3.4_Forge_1.13.jar",
@@ -470,28 +485,13 @@
       "status": 1,
       "timestamp": "2019-04-14T22:04:10.4077849Z",
       "lastWriteTimeUtc": "2019-04-14T21:57:29.1890376Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6728979Z",
+      "queryTimestamp": "2019-11-30T02:24:26.2533286Z",
       "fileCount": 1,
       "fileSize": 222471
-    },
-    {
-      "folderName": "cc-tweaked-1.13.2-1.83.1.jar",
-      "fingerprint": 4153439115,
-      "fileDateHash": 2461833501,
-      "sectionID": 8,
-      "individualFingerprints": [
-        4153439115
-      ],
-      "status": 1,
-      "timestamp": "2019-11-07T01:27:36.1289495Z",
-      "lastWriteTimeUtc": "2019-11-07T01:27:05.1238624Z",
-      "queryTimestamp": "2019-11-17T00:10:02.6728979Z",
-      "fileCount": 1,
-      "fileSize": 1683035
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2019-11-17T00:10:02.8135219Z",
+  "lastPreviousMatchUpdate": "2019-11-30T02:24:26.4079157Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.13.2",
@@ -1574,14 +1574,14 @@
       "addonID": 263420,
       "gameInstanceID": "6d4671ba-5a3f-447d-b3ed-2fa7519751cf",
       "installedFile": {
-        "id": 2826719,
-        "displayName": "v1.18.8 for Minecraft 1.13.2",
-        "fileName": "Xaeros_Minimap_1.18.8_Forge_1.13.jar",
-        "fileDate": "2019-11-13T10:36:08.953Z",
-        "fileLength": 457167,
+        "id": 2833271,
+        "displayName": "v1.19.0 for Minecraft 1.13.2",
+        "fileName": "Xaeros_Minimap_1.19.0_Forge_1.13.jar",
+        "fileDate": "2019-11-27T12:26:27.113Z",
+        "fileLength": 458939,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2826/719/Xaeros_Minimap_1.18.8_Forge_1.13.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2833/271/Xaeros_Minimap_1.19.0_Forge_1.13.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -1589,17 +1589,17 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3125307081,
+            "fingerprint": 697651386,
             "type": 0
           },
           {
             "foldername": "xaero",
-            "fingerprint": 329975940,
+            "fingerprint": 1481916123,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 1594947087,
+            "fingerprint": 3492533689,
             "type": 0
           },
           {
@@ -1608,7 +1608,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 1561930747,
+        "packageFingerprint": 2578318989,
         "gameVersion": [
           "1.13.2"
         ],
@@ -1621,12 +1621,12 @@
         "gameVersionDateReleased": "2018-10-22T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Xaeros_Minimap_1.18.8_Forge_1.13.jar"
+        "FileNameOnDisk": "Xaeros_Minimap_1.19.0_Forge_1.13.jar"
       },
       "dateInstalled": "2019-11-07T01:27:36.9377874Z",
-      "dateUpdated": "2019-11-16T17:58:56.912003Z",
-      "dateLastUpdateAttempted": "2019-11-16T17:58:56.912003Z",
-      "status": 3,
+      "dateUpdated": "2019-11-30T16:16:14.9525909Z",
+      "dateLastUpdateAttempted": "2019-11-30T16:16:14.9525909Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2118,6 +2118,73 @@
       "installedTargets": null
     },
     {
+      "addonID": 317780,
+      "gameInstanceID": "6d4671ba-5a3f-447d-b3ed-2fa7519751cf",
+      "installedFile": {
+        "id": 2833277,
+        "displayName": "v1.5.1 for Minecraft 1.13.2",
+        "fileName": "XaerosWorldMap_1.5.1_Forge_1.13.jar",
+        "fileDate": "2019-11-27T12:28:48.17Z",
+        "fileLength": 252421,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2833/277/XaerosWorldMap_1.5.1_Forge_1.13.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4128312484,
+            "type": 0
+          },
+          {
+            "foldername": "xaero",
+            "fingerprint": 1843331181,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 856784871,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1528428195,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3978305540,
+        "gameVersion": [
+          "1.13.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2018-10-22T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "XaerosWorldMap_1.5.1_Forge_1.13.jar"
+      },
+      "dateInstalled": "2019-11-07T01:27:36.9427733Z",
+      "dateUpdated": "2019-11-30T16:16:16.6440691Z",
+      "dateLastUpdateAttempted": "2019-11-30T16:16:16.6440691Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 306926,
       "gameInstanceID": "6d4671ba-5a3f-447d-b3ed-2fa7519751cf",
       "installedFile": {
@@ -2192,73 +2259,6 @@
       "dateInstalled": "2019-08-17T16:04:17.4269132Z",
       "dateUpdated": "2018-08-17T16:04:17.4269132Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 317780,
-      "gameInstanceID": "6d4671ba-5a3f-447d-b3ed-2fa7519751cf",
-      "installedFile": {
-        "id": 2826725,
-        "displayName": "v1.5.0.1 for Minecraft 1.13.2",
-        "fileName": "XaerosWorldMap_1.5.0.1_Forge_1.13.jar",
-        "fileDate": "2019-11-13T10:38:12.623Z",
-        "fileLength": 252029,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2826/725/XaerosWorldMap_1.5.0.1_Forge_1.13.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1159998726,
-            "type": 0
-          },
-          {
-            "foldername": "xaero",
-            "fingerprint": 773340623,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 856784871,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1528428195,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2433802680,
-        "gameVersion": [
-          "1.13.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2018-10-22T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "XaerosWorldMap_1.5.0.1_Forge_1.13.jar"
-      },
-      "dateInstalled": "2019-11-07T01:27:36.9427733Z",
-      "dateUpdated": "2019-11-16T17:58:58.598494Z",
-      "dateLastUpdateAttempted": "2019-11-16T17:58:58.598494Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
