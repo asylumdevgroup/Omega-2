@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-11-30T16:16:26.7849606Z",
+  "lastPlayed": "2019-12-14T23:58:41.6885692Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1574,14 +1574,14 @@
       "addonID": 263420,
       "gameInstanceID": "6d4671ba-5a3f-447d-b3ed-2fa7519751cf",
       "installedFile": {
-        "id": 2833271,
-        "displayName": "v1.19.0 for Minecraft 1.13.2",
-        "fileName": "Xaeros_Minimap_1.19.0_Forge_1.13.jar",
-        "fileDate": "2019-11-27T12:26:27.113Z",
-        "fileLength": 458939,
+        "id": 2840964,
+        "displayName": "v1.19.2 for Minecraft 1.13.2",
+        "fileName": "Xaeros_Minimap_1.19.2_Forge_1.13.jar",
+        "fileDate": "2019-12-11T12:24:32.037Z",
+        "fileLength": 469686,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2833/271/Xaeros_Minimap_1.19.0_Forge_1.13.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2840/964/Xaeros_Minimap_1.19.2_Forge_1.13.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -1589,17 +1589,17 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 697651386,
+            "fingerprint": 2906727978,
             "type": 0
           },
           {
             "foldername": "xaero",
-            "fingerprint": 1481916123,
+            "fingerprint": 4151593996,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 3492533689,
+            "fingerprint": 298662096,
             "type": 0
           },
           {
@@ -1608,7 +1608,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 2578318989,
+        "packageFingerprint": 1776000888,
         "gameVersion": [
           "1.13.2"
         ],
@@ -1621,11 +1621,11 @@
         "gameVersionDateReleased": "2018-10-22T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Xaeros_Minimap_1.19.0_Forge_1.13.jar"
+        "FileNameOnDisk": "Xaeros_Minimap_1.19.2_Forge_1.13.jar"
       },
       "dateInstalled": "2019-11-07T01:27:36.9377874Z",
-      "dateUpdated": "2019-11-30T16:16:14.9525909Z",
-      "dateLastUpdateAttempted": "2019-11-30T16:16:14.9525909Z",
+      "dateUpdated": "2019-12-14T23:58:30.0576602Z",
+      "dateLastUpdateAttempted": "2019-12-14T23:58:30.0576602Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -2121,14 +2121,14 @@
       "addonID": 317780,
       "gameInstanceID": "6d4671ba-5a3f-447d-b3ed-2fa7519751cf",
       "installedFile": {
-        "id": 2833277,
-        "displayName": "v1.5.1 for Minecraft 1.13.2",
-        "fileName": "XaerosWorldMap_1.5.1_Forge_1.13.jar",
-        "fileDate": "2019-11-27T12:28:48.17Z",
-        "fileLength": 252421,
+        "id": 2836596,
+        "displayName": "v1.5.2 for Minecraft 1.13.2",
+        "fileName": "XaerosWorldMap_1.5.2_Forge_1.13.jar",
+        "fileDate": "2019-12-04T13:31:50.24Z",
+        "fileLength": 252135,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2833/277/XaerosWorldMap_1.5.1_Forge_1.13.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2836/596/XaerosWorldMap_1.5.2_Forge_1.13.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -2136,12 +2136,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 4128312484,
+            "fingerprint": 4269250696,
             "type": 0
           },
           {
             "foldername": "xaero",
-            "fingerprint": 1843331181,
+            "fingerprint": 1645087699,
             "type": 0
           },
           {
@@ -2155,7 +2155,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 3978305540,
+        "packageFingerprint": 955955248,
         "gameVersion": [
           "1.13.2"
         ],
@@ -2168,11 +2168,11 @@
         "gameVersionDateReleased": "2018-10-22T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "XaerosWorldMap_1.5.1_Forge_1.13.jar"
+        "FileNameOnDisk": "XaerosWorldMap_1.5.2_Forge_1.13.jar"
       },
       "dateInstalled": "2019-11-07T01:27:36.9427733Z",
-      "dateUpdated": "2019-11-30T16:16:16.6440691Z",
-      "dateLastUpdateAttempted": "2019-11-30T16:16:16.6440691Z",
+      "dateUpdated": "2019-12-14T23:58:32.6626968Z",
+      "dateLastUpdateAttempted": "2019-12-14T23:58:32.6626968Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
