@@ -1,0 +1,58 @@
+
+[gearSoul]
+	#If true, gear souls can gain XP when being used by fake players (certain machines)
+	fakePlayersGetXp = false
+
+[general]
+	#The burn time (in ticks) of chaos coal (normal coal is 1600)
+	chaosCoalBurnTime = 6400
+
+[debug]
+	#Display text on-screen with various information, such as player/world chaos
+	showOverlay = true
+	#Must be true for any other debug settings to take effect
+	masterSwitch = false
+
+[teleporter]
+
+	[teleporter.chaos]
+		#The chaos produced per block traveled (ignores Y-axis)
+		# Does not apply when teleporting to another dimension
+		perBlock = 50
+		#The chaos produced when traveling between dimensions using a teleport
+		crossDimension = 50000
+		#When teleporting this distance or less, no chaos is produced (ignores Y-axis)
+		freeRange = 64
+
+[soulGem]
+
+	#Drop rate of soul gems is randomly selected based on the world seed.
+	#There is an average and a deviation, which makes a normal distribution.
+	#The numbers will tend to be close to average, but could occasionally be plus/minus a couple deviations.
+	[soulGem.dropRate]
+		#Average drop rate of soul gems (1 = 100%) [0 ~ 1]
+		average = 0.025
+		#The drop rate for boss creatures (overrides normal calculation) [0 ~ 1]
+		boss = 1.0
+		#Standard deviation of drop rate (should be no more than a quarter of the average, preferably less) [0 ~ 1]
+		deviation = 0.002
+
+[returnHomeCharm]
+	#The time (in ticks) the player must use a return home charm to activate it
+	useTime = 16
+
+[glowrose]
+	#The light level of free-standing glowroses [0 ~ 15]
+	#Requires a Minecraft restart
+	normalLight = 10
+	#The light level of glowroses planted in vanilla flower pots [0 ~ 15]
+	#Requires a Minecraft restart
+	pottedLight = 15
+
+	[glowrose.world]
+		#The number of placement attempts when generating new chunks (higher numbers = bigger patches)
+		#Note this is the number of 'attempts', not the actual number you will likely see in any given patch
+		placeTryCount = 40
+		#The most glowroses that can be in a single patch
+		maxPerPatch = 16
+
