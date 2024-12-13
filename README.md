@@ -1,5 +1,5 @@
-# ADG Omega 2
-ADG's Experimental Pack for 1.13.2!
+# Asylum - Aquatic Adventure
+Asylum Dev's Experimental Pack for 1.13.2!
 
 ## Modlist
 * \[SBM\] Wooden Shears (by BuiltBroken)
